@@ -1,4 +1,4 @@
-#include "ImageProc.h"
+#include "smg_uvc.h"
 
 int errnoexit(const char *s)
 {
