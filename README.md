@@ -1,2 +1,7 @@
 # regulus_uvc
 regulus_uvc
+
+# build library
+a) cp -a uvc smartglass_itri/smartglass_itri/hardware/ingenic/
+b) cd smartglass_itri/smartglass_itri/hardware/ingenic/uvc/uvc
+c) mm
