@@ -5,17 +5,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <com.camera.simplewebcam.CameraPreview
+    <com.camera.smguvc.CameraPreview
         android:id="@+id/cameraSurfaceView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="0.98" />
-
-    <ImageButton
-        android:id="@+id/button1"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:contentDescription="Take Image"
-        android:src="@drawable/ic_menu_camera" />
-
 </LinearLayout>
